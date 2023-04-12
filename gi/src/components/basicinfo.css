@@ -1,0 +1,12 @@
+/* Hard */
+
+.info-block {
+  color: #F7DBA7;
+  padding: 16px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
